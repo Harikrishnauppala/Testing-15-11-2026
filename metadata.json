@@ -1,0 +1,6 @@
+{
+  "name": "BatchLedger",
+  "description": "Windows workstation application for managing food manufacturing recipes, bills of materials, batch scaling, raw material inventory, and HACCP process controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
